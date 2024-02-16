@@ -1,4 +1,4 @@
-# PotentiometersWithPython
+# Potentiometers With Python
 Coding, Mathematics & Usage of Potentiometer.
 ---------------------------------------------
 Please see * MathematicalWorkings.png for equation
